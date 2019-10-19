@@ -6,5 +6,5 @@ Lien en ligne :
 
 <h3>Langages utilisés ?</h3>
 
-HTML5, CSS3
+HTML5, CSS3 <br>
 JavaScript, AJAX, React, Redux
