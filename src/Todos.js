@@ -12,7 +12,7 @@ const Todos = ({ todos, deleteTodo }) => {
             )
         })
     )  :   (
-        <p className="center">You have no todos left, yeaaah</p>
+        <p className="center">Votre liste est vide</p>
     )
     return (
         <div className="todos collection">
